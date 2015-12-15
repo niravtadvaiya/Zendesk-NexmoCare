@@ -1,4 +1,4 @@
-# Zendesk-NexmoCare-App
+# Zendesk-NexmoCare
 
 ## Introduction 
 NexmoCare app will allow Zendesk users to send SMS to the requester on various stages/events of their ticket on Zendesk. Using this app, Zendesk’s users can configure the event as well as SMS text.
